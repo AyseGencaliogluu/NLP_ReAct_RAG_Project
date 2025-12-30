@@ -1,0 +1,3 @@
+model_label,type,count,mean,sum
+FREE_SMALL,dataset,40,0.725,29.0
+FREE_SMALL,reasoning,10,0.4,4.0
