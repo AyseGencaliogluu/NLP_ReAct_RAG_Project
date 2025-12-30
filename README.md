@@ -1,5 +1,11 @@
 # NLP_ReAct_RAG_Project
 
+## Google Colab Notebook
+
+The project notebook can be accessed here:
+[https://colab.research.google.com/XXXXXXXX](https://colab.research.google.com/drive/1NTprQQ6m5G-q-GCYAG9EW5amYFUPpQBM#scrollTo=xdfnIhCgnf0I)
+
+
 This project implements a ReAct (Reasoning + Acting) based Retrieval-Augmented Generation (RAG) system
 for answering legal questions related to distance sales contracts and the right of withdrawal in Turkey.
 
